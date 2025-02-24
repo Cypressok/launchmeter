@@ -14,13 +14,6 @@ app_icon                                  : # assets/appicon.png                
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Test your car for speed! Launchmeter is an accurate and convenient tool for measuring car acceleration. Measure acceleration time from 0 to 100 km/h, 100-200 km/h, 1/4 mile.
-
-- Accurate measurements - Uses GPS and accelerometer sensors to record results.
-- Variety of measurements - Acceleration ranges (0-60, 0-100, 50-150, 100-200, 0-200, 250-300, 200-300 km/h and 1/4 mile).
-- Support for all cars - Suitable for any car, from city hatchbacks to supercars.
-
-Find out how fast your car is! Download Launchmeter and try it out today!
-
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
